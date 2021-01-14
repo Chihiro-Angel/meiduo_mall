@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+logs
+.idea
+*.py[cod]
+migrations
+start.sh
+.idea
